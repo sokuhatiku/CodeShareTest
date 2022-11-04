@@ -1,0 +1,14 @@
+{
+    "name": "Sokuhatiku.CodeShareTest.NetStandard",
+    "rootNamespace": "Sokuhatiku.CodeShareTest.NetStandard",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
